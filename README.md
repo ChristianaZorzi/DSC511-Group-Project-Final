@@ -1,4 +1,5 @@
 # DSC511-Group-Project
+## Restaurant Reviews Pre and Post Covid
 ### Rafaela Christou,  Christiana Zorzi, Emili Rousou, Vasiliki Christodoulou
 Our dataset was sourced from Kaggle and included two CSV files containing restaurant reviews from the pre- and post-COVID periods. The main goal of our analysis was to examine how customer interactions and behavior changed over time.\
 As an initial step, we loaded both datasets and inspected them for any missing values. Both contained missing values, but we only removed the missing values from reviews that occured in pre dataset. Furthermore, we dropped the duplicate reviews. Through research, we found out that COVID-19 in USA started on January 20, so the the 31633 reviews that were written before 20/01 on post-Covid, were transferred to the pre-Covid dataset.\
