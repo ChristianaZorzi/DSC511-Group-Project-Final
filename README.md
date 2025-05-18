@@ -1,4 +1,4 @@
-# DSC511-Group-Project
+# DSC511 - Group Project
 ## Restaurant Reviews Pre and Post Covid
 ### Rafaela Christou,  Christiana Zorzi, Emili Rousou, Vasiliki Christodoulou
 Our dataset was sourced from Kaggle and included two CSV files containing restaurant reviews from the pre- and post-COVID periods. The main goal of our analysis was to examine how customer interactions and behavior changed over time.\
